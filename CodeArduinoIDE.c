@@ -38,8 +38,7 @@ int Down_V = 0;
 int Right_V = 0;
 // initializing infrared sensors with default value (0)
 
-void setup()
-{
+void setup() {
     pinMode(Left_S, INPUT);
     pinMode(Forward_S, INPUT);
     pinMode(Right_S, INPUT);
@@ -54,8 +53,7 @@ void setup()
 
 
 
-void loop()
-{
+void loop() {
     //ActivateFireSensors();
     SearchForFire();
     ExtinguishFire();
@@ -63,7 +61,7 @@ void loop()
 // looping the custom created functions
 
 /*
-void ActivateFireSensors(){
+void ActivateFireSensors() {
     Left_V = digitalRead(Left_S);
     Forward_V = digitalRead(Forward_S);
     Right_V = digitalRead(Right_S);
@@ -72,46 +70,40 @@ void ActivateFireSensors(){
 */
 
 
-void SearchForFire(){
+void SearchForFire() {
 // initializing a function with no parameters, which returns no result/no value
-if (digitalRead(Left_S) != 0 && digitalRead(Forward_S) != 0 && digitalRead(Right_S) != 0)
-
-    {
-    digitalWrite(MOTOR_L, LOW);
+if (digitalRead(Left_S) != 0 && digitalRead(Forward_S) != 0 && digitalRead(Right_S) != 0) {
+	digitalWrite(MOTOR_L, LOW);
     digitalWrite(MOTOR_R, LOW);
-    }
+	}
 
-    else if (digitalRead(Left_S) == 0)
-    {
+    else if (digitalRead(Left_S) == 0) {
     digitalWrite(MOTOR_L, LOW);
     digitalWrite(MOTOR_R, HIGH);
     }
 
-    else if (digitalRead(Forward_S) == 0)
-    {
+    else if (digitalRead(Forward_S) == 0) {
     digitalWrite(MOTOR_L, HIGH);
     digitalWrite(MOTOR_R, HIGH);
     fire = true;
     }
 
-    else if (digitalRead(Right_S) == 0)
-    {
+    else if (digitalRead(Right_S) == 0) {
     digitalWrite(MOTOR_L, HIGH);
     digitalWrite(MOTOR_R, LOW);
     }
 }
 
 /*
-void ExtinguishFire(){
+void ExtinguishFire() {
 
-    while(fire == true){
+    while(fire == true) {
 
     //delay (500);
 
     digitalWrite(MOTOR_L, HIGH); digitalWrite(MOTOR_R, HIGH);
 
-    if (digitalRead(Down_S) == 0)
-    {
+    if (digitalRead(Down_S) == 0) {
     digitalWrite(MOTOR_L, LOW); digitalWrite(MOTOR_R, LOW);
     digitalWrite(Pump, HIGH);
     }
@@ -126,12 +118,11 @@ void ExtinguishFire(){
 
 void ExtinguishFire() {
 // initializing a function with no parameters, which returns no result/no value
-    if (digitalRead(Down_S) == 0)
-    {
+    if (digitalRead(Down_S) == 0) {
     digitalWrite(MOTOR_L, LOW); digitalWrite(MOTOR_R, LOW);
     digitalWrite(Pump, HIGH);
     }
-    else{
+    else {
     digitalWrite(Pump, LOW);
     }
 }
