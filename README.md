@@ -1,4 +1,4 @@
-# Thesis: "Designing and building a mobile robot with a control system based on the Arduino development board"
+## Thesis: "Designing and building a mobile robot with a control system based on the Arduino development board"
 
 • Educational institution: "Vasile Alecsandri" University of Bacău, Romania (Faculty of Engineering)
 
