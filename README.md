@@ -1,4 +1,6 @@
-## My Engineering Thesis' Title: "Designing and building a mobile robot with a control system based on the Arduino development board"
+# My Engineering Thesis' Title: <br><br> "Designing and building a mobile robot with a control system based on the Arduino development board"
+
+<br>
 
 ### • Educational institution: "Vasile Alecsandri" University of Bacău, Romania (Faculty of Engineering)
 
@@ -8,7 +10,7 @@
 
 ### • The thesis involved working with Arduino IDE (code written in C programming language), IR (infrared) sensors and servo motors
 
-<hr>
+<br><hr><br>
 
 ### • Here is the General Block Scheme:
 
@@ -28,26 +30,27 @@
 4. Infrared flame sensor modules ***x4***
 5. Water pump 3-12V
 6. 12V DC servo motors ***x2***
-7. Female-to-female jumper wires 10cm
-8. Male-to-female jumper wires 10cm
-9. Male-to-male jumper wires 10cm
-10. Automotive terminals ***x2*** 
-11. Water reservoir
-12. Water hoses ***x2*** 
-13. Nozzle
-14. Pump control module:
+7. Jumper wires
+   - Female-to-female jumper wires 10cm
+   - Male-to-female jumper wires 10cm
+   - Male-to-male jumper wires 10cm
+8. Automotive terminals ***x2*** 
+9. Water reservoir
+10. Water hoses ***x2***
+11. Nozzle
+12. Pump control module:
     - Bipolar transistor C8050
     - Optocoupler
     - Potentiometer
     - 180 Ω resistor
     - Zener diode DZ10
-15. H-bridges ***x2*** 
+13. H-bridges ***x2*** 
     - Transistors ***x8*** 
     - Heat sinks ***x2*** 
     - Resistors
-16. Optocouplers ***x2*** 
-17. Main fuse
-18. On/off switch
-19. Drive belts ***x2*** 
-20. Metal chassis
-21. Office chair wheels ***x2*** 
+14. Optocouplers ***x2*** 
+15. Main fuse
+16. On/off switch
+17. Drive belts ***x2*** 
+18. Metal chassis
+19. Office chair wheels ***x2*** 
