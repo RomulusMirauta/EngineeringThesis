@@ -22,32 +22,32 @@
 
 ### • List of components:
 
--	Arduino Uno R3 development board *(with ATmega328-PU microcontroller)*
--	Power cables
--	12V battery
--	***4x*** Infrared flame sensor modules
--	Water pump 3-12V
--	***x2*** 12V DC servo motors
--	Female-to-female jumper wires 10cm
--	Male-to-female jumper wires 10cm
--	Male-to-male jumper wires 10cm
--	***2x*** Automotive terminals
--	Water reservoir
--	***2x*** Water hoses
--	Nozzle
--	Pump control module:
-  -	Bipolar transistor C8050
-  -	Optocoupler
-  -	Potentiometer
-  -	180 Ω resistor
-  -	Zener diode DZ10
--	***2x*** H-bridges
-  -	***8x*** Transistors
-  -	***2x*** Heat sinks
-  -	Resistors
--	***2x*** Optocouplers
--	Main fuse
--	On/off switch
--	***2x*** Drive belts
--	Metal chassis
--	***2x*** Office chair wheels
+1. Arduino Uno R3 development board *(with ATmega328-PU microcontroller)*
+2. Power cables
+3. 12V battery
+4. Infrared flame sensor modules ***x4***
+5. Water pump 3-12V
+6. 12V DC servo motors ***x2***
+7. Female-to-female jumper wires 10cm
+8. Male-to-female jumper wires 10cm
+9. Male-to-male jumper wires 10cm
+10. Automotive terminals ***x2*** 
+11. Water reservoir
+12. Water hoses ***x2*** 
+13. Nozzle
+14. Pump control module:
+    - Bipolar transistor C8050
+    - Optocoupler
+    - Potentiometer
+    - 180 Ω resistor
+    - Zener diode DZ10
+15. H-bridges ***x2*** 
+    - Transistors ***x8*** 
+    - Heat sinks ***x2*** 
+    - Resistors
+16. Optocouplers ***x2*** 
+17. Main fuse
+18. On/off switch
+19. Drive belts ***x2*** 
+20. Metal chassis
+21. Office chair wheels ***x2*** 
