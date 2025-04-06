@@ -57,7 +57,7 @@
 
 <br><hr><br>
 
-### • Photos showcasing the physical aspect of the project
+### • Photos showcasing the physical aspect of the project:
 
 <a href="https://raw.githubusercontent.com/RomulusMirauta/EngineeringThesis/refs/heads/main/img/IMG_20190902_185350.jpg">
   <img align="center"
