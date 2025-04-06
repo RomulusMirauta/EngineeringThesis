@@ -14,9 +14,9 @@
 
 ### • Here is the General Block Scheme:
 
-<a href="https://raw.githubusercontent.com/RomulusMirauta/EngineeringThesis/refs/heads/main/Block_Scheme_Final.png">
+<a href="https://raw.githubusercontent.com/RomulusMirauta/EngineeringThesis/refs/heads/main/img/Block_Scheme_Final.png">
   <img align="center"
-    src="https://raw.githubusercontent.com/RomulusMirauta/EngineeringThesis/refs/heads/main/Block_Scheme_Final.png"
+    src="https://raw.githubusercontent.com/RomulusMirauta/EngineeringThesis/refs/heads/main/img/Block_Scheme_Final.png"
     alt="Block_Scheme_Final" />
 </a>
 
@@ -54,3 +54,47 @@
 17. Drive belts ***x2*** 
 18. Metal chassis
 19. Office chair wheels ***x2*** 
+
+<br><hr><br>
+
+### • Photos showcasing the physical aspect of the project
+
+<a href="https://raw.githubusercontent.com/RomulusMirauta/EngineeringThesis/refs/heads/main/img/IMG_20190902_185350.jpg">
+  <img align="center"
+    src="https://raw.githubusercontent.com/RomulusMirauta/EngineeringThesis/refs/heads/main/img/IMG_20190902_185350.jpg"
+    alt="Firetruck1" />
+</a>
+
+<br><br>
+
+<a href="https://raw.githubusercontent.com/RomulusMirauta/EngineeringThesis/refs/heads/main/img/IMG_20190902_185247.jpg">
+  <img align="center"
+    src="https://raw.githubusercontent.com/RomulusMirauta/EngineeringThesis/refs/heads/main/img/IMG_20190902_185247.jpg"
+    alt="Firetruck2" />
+</a>
+
+<br><br>
+
+<a href="https://raw.githubusercontent.com/RomulusMirauta/EngineeringThesis/refs/heads/main/img/IMG_20190909_115848.jpg">
+  <img align="center"
+    src="https://raw.githubusercontent.com/RomulusMirauta/EngineeringThesis/refs/heads/main/img/IMG_20190909_115848.jpg"
+    alt="Firetruck3" />
+</a>
+
+<br><br>
+
+<a href="https://raw.githubusercontent.com/RomulusMirauta/EngineeringThesis/refs/heads/main/img/IMG_20190909_120011.jpg">
+  <img align="center"
+    src="https://raw.githubusercontent.com/RomulusMirauta/EngineeringThesis/refs/heads/main/img/IMG_20190909_120011.jpg"
+    alt="Firetruck4" />
+</a>
+
+<br><br>
+
+<a href="https://raw.githubusercontent.com/RomulusMirauta/EngineeringThesis/refs/heads/main/img/IMG_20190821_111227.jpg">
+  <img align="center"
+    src="https://raw.githubusercontent.com/RomulusMirauta/EngineeringThesis/refs/heads/main/img/IMG_20190821_111227.jpg"
+    alt="Firetruck5" />
+</a>
+
+<br><br>
