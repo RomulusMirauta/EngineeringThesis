@@ -96,5 +96,3 @@
     src="https://raw.githubusercontent.com/RomulusMirauta/EngineeringThesis/refs/heads/main/img/IMG_20190821_111227.jpg"
     alt="Firetruck5" />
 </a>
-
-<br><br>
