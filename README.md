@@ -57,6 +57,46 @@
 
 <br><hr><br>
 
+### • The Development Board - Arduino UNO R3 - Main Overview
+
+<a href="https://raw.githubusercontent.com/RomulusMirauta/EngineeringThesis/refs/heads/main/img/Arduino_UNO_R3_1.png">
+  <img align="center"
+    src="https://raw.githubusercontent.com/RomulusMirauta/EngineeringThesis/refs/heads/main/img/Arduino_UNO_R3_1.png"
+    alt="" />
+</a>
+
+<br><br>
+
+### • The Development Board - Arduino UNO R3 - Pin In/Out Scheme
+
+<a href="https://raw.githubusercontent.com/RomulusMirauta/EngineeringThesis/refs/heads/main/img/Arduino_UNO_R3_2.png">
+  <img align="center"
+    src="https://raw.githubusercontent.com/RomulusMirauta/EngineeringThesis/refs/heads/main/img/Arduino_UNO_R3_2.png"
+    alt="" />
+</a>
+
+<br><br>
+
+### • IR Flame Sensor Module
+
+<a href="https://raw.githubusercontent.com/RomulusMirauta/EngineeringThesis/refs/heads/main/img/IR_Flame_Sensor_Module.png">
+  <img align="center"
+    src="https://raw.githubusercontent.com/RomulusMirauta/EngineeringThesis/refs/heads/main/img/IR_Flame_Sensor_Module.png"
+    alt="" />
+</a>
+
+<br><br>
+
+### • Electromagnetic Spectrum
+
+<a href="https://raw.githubusercontent.com/RomulusMirauta/EngineeringThesis/refs/heads/main/img/Light_Spectrum.png">
+  <img align="center"
+    src="https://raw.githubusercontent.com/RomulusMirauta/EngineeringThesis/refs/heads/main/img/Light_Spectrum.png"
+    alt="" />
+</a>
+
+<br><hr><br>
+
 ### • Photos showcasing the physical aspect of the project:
 
 <a href="https://raw.githubusercontent.com/RomulusMirauta/EngineeringThesis/refs/heads/main/img/IMG_20190902_185350.jpg">
