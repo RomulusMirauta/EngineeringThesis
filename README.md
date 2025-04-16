@@ -89,9 +89,9 @@
 
 ### • Electromagnetic Spectrum
 
-<a href="https://raw.githubusercontent.com/RomulusMirauta/EngineeringThesis/refs/heads/main/img/Light_Spectrum.png">
+<a href="https://raw.githubusercontent.com/RomulusMirauta/EngineeringThesis/refs/heads/main/img/Electromagnetic_Spectrum.png">
   <img align="center"
-    src="https://raw.githubusercontent.com/RomulusMirauta/EngineeringThesis/refs/heads/main/img/Light_Spectrum.png"
+    src="https://raw.githubusercontent.com/RomulusMirauta/EngineeringThesis/refs/heads/main/img/Electromagnetic_Spectrum.png"
     alt="" />
 </a>
 
